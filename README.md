@@ -1,0 +1,1 @@
+# OBS-Music-Display-Widget

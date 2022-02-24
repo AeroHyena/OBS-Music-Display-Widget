@@ -1,0 +1,74 @@
+<!-- controls the behavior of the song display widget-->
+
+<!DOCTYPE html>
+
+<style>
+    #main {
+        background-image: url('media/Now\ Playing\ Overlay\ -\ element\ 1.png');
+        display: flex;
+        height: 300px;
+        width: 0;
+        max-width:1500px;
+        animation-name: enter_exit;
+        animation-duration: 15s;
+    }
+
+
+
+    /* animation entrance and exit behavior */
+    @keyframes enter_exit {
+    0% {width: 0%;}
+    25% {width: 100%;}
+    75% {width: 100%;}
+    100% {width: 0%;}
+    }
+
+
+
+    /* album art behavior */
+    @keyframes album_art {
+        0% {height: 0%;}
+        1% {height: 100%;}
+        99% {height: 100%;}
+        100% {height: 0%;}
+    }
+
+
+    #album {
+        height: 0;
+        animation-name: album_art;
+        animation-delay: 1s;
+        animation-duration: 12s;
+    }
+
+
+    /* TODO text behavior */
+
+
+
+</style>
+
+<body>
+    <script type="text/javascript">
+        document.getElementById('snip/Snip.txt')
+            .addEventListener('change', function() {
+              
+            var fr=new FileReader();
+            fr.onload=function(){
+                document.getElementById('output')
+                        .textContent=fr.result;
+            }
+              
+            fr.readAsText(this.files[0]);
+        })
+    </script>
+
+
+<div id="main">
+    <img id="album" src="snip/Snip_Artwork.jpg">
+</div>
+
+
+</body>
+
+</html>

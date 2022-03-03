@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+      "id" : "1HY2Jd0NmPuamShAr6KMms",
+      "name" : "Lady Gaga",
+      "type" : "artist",
+      "uri" : "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+    } ],
+    "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BG", "BH", "BI", "BJ", "BO", "BR", "BS", "BT", "BW", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6rePArBMb5nLWEaY9aQqL4",
+    "id" : "6rePArBMb5nLWEaY9aQqL4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa",
+      "width" : 64
+    } ],
+    "name" : "The Fame Monster (Deluxe Edition)",
+    "release_date" : "2009-11-05",
+    "release_date_precision" : "day",
+    "total_tracks" : 23,
+    "type" : "album",
+    "uri" : "spotify:album:6rePArBMb5nLWEaY9aQqL4"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+    },
+    "href" : "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+    "id" : "1HY2Jd0NmPuamShAr6KMms",
+    "name" : "Lady Gaga",
+    "type" : "artist",
+    "uri" : "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+  } ],
+  "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BG", "BH", "BI", "BJ", "BO", "BR", "BS", "BT", "BW", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+  "disc_number" : 1,
+  "duration_ms" : 294573,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM70918596"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/0SiywuOBRcynK0uKGWdCnn",
+  "id" : "0SiywuOBRcynK0uKGWdCnn",
+  "is_local" : false,
+  "name" : "Bad Romance",
+  "popularity" : 84,
+  "preview_url" : "https://p.scdn.co/mp3-preview/ab0b3d9ca1e9ce34611aaad0e9ef58d73fe8f7b4?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:0SiywuOBRcynK0uKGWdCnn"
+}

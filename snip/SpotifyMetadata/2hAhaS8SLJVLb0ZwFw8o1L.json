@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2G4cli4GobgQphDeAaDyGr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2G4cli4GobgQphDeAaDyGr",
+      "id" : "2G4cli4GobgQphDeAaDyGr",
+      "name" : "Myylo",
+      "type" : "artist",
+      "uri" : "spotify:artist:2G4cli4GobgQphDeAaDyGr"
+    } ],
+    "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0XZGnfNa6kR6hpnY6jyMUM"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0XZGnfNa6kR6hpnY6jyMUM",
+    "id" : "0XZGnfNa6kR6hpnY6jyMUM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27355a1bc3fdb5504bdfffe5b8d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0255a1bc3fdb5504bdfffe5b8d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485155a1bc3fdb5504bdfffe5b8d",
+      "width" : 64
+    } ],
+    "name" : "Kissing On Your Dad",
+    "release_date" : "2020-07-10",
+    "release_date_precision" : "day",
+    "total_tracks" : 1,
+    "type" : "album",
+    "uri" : "spotify:album:0XZGnfNa6kR6hpnY6jyMUM"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2G4cli4GobgQphDeAaDyGr"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2G4cli4GobgQphDeAaDyGr",
+    "id" : "2G4cli4GobgQphDeAaDyGr",
+    "name" : "Myylo",
+    "type" : "artist",
+    "uri" : "spotify:artist:2G4cli4GobgQphDeAaDyGr"
+  } ],
+  "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+  "disc_number" : 1,
+  "duration_ms" : 156516,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBKPL2005245"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2hAhaS8SLJVLb0ZwFw8o1L"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2hAhaS8SLJVLb0ZwFw8o1L",
+  "id" : "2hAhaS8SLJVLb0ZwFw8o1L",
+  "is_local" : false,
+  "name" : "Kissing On Your Dad",
+  "popularity" : 31,
+  "preview_url" : "https://p.scdn.co/mp3-preview/0012e9e9e1bab62c759b8fc9bef9bdea02ee2b0e?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2hAhaS8SLJVLb0ZwFw8o1L"
+}

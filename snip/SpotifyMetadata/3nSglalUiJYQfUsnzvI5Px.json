@@ -1,0 +1,78 @@
+﻿{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/378dH6EszOLFShpRzAQkVM",
+      "id" : "378dH6EszOLFShpRzAQkVM",
+      "name" : "Lindsey Stirling",
+      "type" : "artist",
+      "uri" : "spotify:artist:378dH6EszOLFShpRzAQkVM"
+    } ],
+    "available_markets" : [ "AD", "AE", "AG", "AL", "AO", "AR", "AU", "BA", "BB", "BD", "BE", "BF", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BZ", "CD", "CG", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "DJ", "DK", "DM", "DO", "DZ", "EC", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HT", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LU", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PS", "PT", "PW", "PY", "QA", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UG", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/5ELtZeH8BrtTh8CNajpy89"
+    },
+    "href" : "https://api.spotify.com/v1/albums/5ELtZeH8BrtTh8CNajpy89",
+    "id" : "5ELtZeH8BrtTh8CNajpy89",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2739eadeac31b5bf45cd406e40c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e029eadeac31b5bf45cd406e40c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048519eadeac31b5bf45cd406e40c",
+      "width" : 64
+    } ],
+    "name" : "Shatter Me",
+    "release_date" : "2014-04-28",
+    "release_date_precision" : "day",
+    "total_tracks" : 12,
+    "type" : "album",
+    "uri" : "spotify:album:5ELtZeH8BrtTh8CNajpy89"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+    },
+    "href" : "https://api.spotify.com/v1/artists/378dH6EszOLFShpRzAQkVM",
+    "id" : "378dH6EszOLFShpRzAQkVM",
+    "name" : "Lindsey Stirling",
+    "type" : "artist",
+    "uri" : "spotify:artist:378dH6EszOLFShpRzAQkVM"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3Nbau9SoiH72jmJdUTqjOY",
+    "id" : "3Nbau9SoiH72jmJdUTqjOY",
+    "name" : "Lzzy Hale",
+    "type" : "artist",
+    "uri" : "spotify:artist:3Nbau9SoiH72jmJdUTqjOY"
+  } ],
+  "available_markets" : [ "AD", "AE", "AG", "AL", "AO", "AR", "AU", "BA", "BB", "BD", "BE", "BF", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BZ", "CD", "CG", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "DJ", "DK", "DM", "DO", "DZ", "EC", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HT", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LU", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PS", "PT", "PW", "PY", "QA", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UG", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+  "disc_number" : 1,
+  "duration_ms" : 280800,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "QMF921450108"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/3nSglalUiJYQfUsnzvI5Px"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/3nSglalUiJYQfUsnzvI5Px",
+  "id" : "3nSglalUiJYQfUsnzvI5Px",
+  "is_local" : false,
+  "name" : "Shatter Me",
+  "popularity" : 58,
+  "preview_url" : "https://p.scdn.co/mp3-preview/e98398a0df1368d2380b8bdef5d09e7d90333ead?cid=55fa4e0de6184a4abd1a8cf0de5f5b1d",
+  "track_number" : 4,
+  "type" : "track",
+  "uri" : "spotify:track:3nSglalUiJYQfUsnzvI5Px"
+}

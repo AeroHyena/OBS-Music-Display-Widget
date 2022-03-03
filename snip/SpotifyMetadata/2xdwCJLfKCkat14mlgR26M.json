@@ -1,0 +1,69 @@
+﻿{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id" : "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name" : "Billie Eilish",
+      "type" : "artist",
+      "uri" : "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    } ],
+    "available_markets" : [ ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0hPbP7ckqqFVftdTPatlED",
+    "id" : "0hPbP7ckqqFVftdTPatlED",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27319fc30a2e29973763e3d8a53",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0219fc30a2e29973763e3d8a53",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485119fc30a2e29973763e3d8a53",
+      "width" : 64
+    } ],
+    "name" : "Lost Cause",
+    "release_date" : "2021-06-02",
+    "release_date_precision" : "day",
+    "total_tracks" : 1,
+    "type" : "album",
+    "uri" : "spotify:album:0hPbP7ckqqFVftdTPatlED"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    "href" : "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+    "id" : "6qqNVTkY8uBg9cP3Jd7DAH",
+    "name" : "Billie Eilish",
+    "type" : "artist",
+    "uri" : "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+  } ],
+  "available_markets" : [ ],
+  "disc_number" : 1,
+  "duration_ms" : 212496,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USUM72105929"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2xdwCJLfKCkat14mlgR26M",
+  "id" : "2xdwCJLfKCkat14mlgR26M",
+  "is_local" : false,
+  "name" : "Lost Cause",
+  "popularity" : 15,
+  "preview_url" : null,
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2xdwCJLfKCkat14mlgR26M"
+}

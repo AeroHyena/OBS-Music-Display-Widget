@@ -37,41 +37,46 @@
             $('#main').fadeToggle();
             $("#song").load("snip/Snip_Track.txt");
             $("#artist").load("snip/Snip_Artist.txt");
+            $("album img").attr("src", "snip/Snip_Artwork.jpg");
             $('#main').delay(15000);
             $('#main').fadeToggle();
         }
 
-        // sets the song name as a variable to be used to track if a new song has played
-        function fileUpdate() {
-            let songName = $.get("snip/Snip_Track.txt");
+        // sets the song name as a variable, used to track if a new song has played
+        let nowPlaying = "song name";
+        function songUpdate() {
+            $.get("snip/Snip_Track.txt", function(data, status) {
+                nowPlaying = data;
+                console.log(status);
+            });
         }
 
-        // when a new song plays, activate the widget
-        function updater(i) {
-            setTimeout(function() {
-                if ($.get("snip/Snip_Track.txt") == songName) {
-                    return "a";}
-                else {
-                    fileUpdate();
-                    animation();
-                }
-            }, 10000 * i);
+        // updater - checks is a new song has played, triggers animation() if true
+        function updater() {
+            let x = "song name";
+            $.get("snip/Snip_Track.txt", function(data, status) {
+                x = data;
+                console.log(x);
+                console.log(status);
+            });
+
+            if ( x !== nowPlaying) {
+                songUpdate();
+                animation();
             }
+        }
+
+        function initializeTimer() {
+            setInterval(updater, 5000); // checks for song update every 5 seconds
+        }
 
         // on document load, initiate widget and run updater
         $(document).ready(function() {
-            $('#main').hide();
-            animation();
-            fileUpdate();
+            $('#main').fadeToggle();
+            songUpdate();
+            
 
-            let i = 0;
-            let x = true
-
-            // always check if a new song has played (infinite loop)
-            while (x == true) {
-            updater(i);
-            i++;
-            }
+            
         });
     </script>
 </head>
